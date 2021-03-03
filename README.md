@@ -1,5 +1,6 @@
 This repo demonstrates compiler issue with groovy-eclipse-compiler and JDK 11.
 It's created to provide executable version for ticket.
+See [groovy/groovy-eclipse#1231](https://github.com/groovy/groovy-eclipse/issues/1231).
 
 ## How to get compiler error
 
