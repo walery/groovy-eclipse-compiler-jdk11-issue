@@ -24,7 +24,6 @@
       <groupId>io.micronaut</groupId>
       <artifactId>micronaut-inject-groovy</artifactId>
       <scope>provided</scope>
-      <version>2.3.3</version>
     </dependency>
   </dependencies>
 
@@ -32,7 +31,6 @@
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
-        <version>3.8.1</version>
         <dependencies>
           <dependency>
             <groupId>org.codehaus.groovy</groupId>
